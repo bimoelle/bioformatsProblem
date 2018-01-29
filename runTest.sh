@@ -46,9 +46,9 @@ J3=neu/formats-bsd-5.7.2.jar
 J4=neu/guava-21.0.jar
 J5=neu/kryo-2.24.0.jar
 J6=neu/slf4j-api-1.7.25.jar
-### Dieses Jahr macht Probleme! 
+### This jar causes trouble! 
 J7=neu/ome-common-5.3.3.jar
-### Nimmt man stattdessen dieses, dann geht's:
+### Taking the old version fixes the issue...
 #J7=alt/ome-common-5.3.2.jar
 ###
 J8=neu/ome-xml-5.6.0.jar
